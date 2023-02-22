@@ -1,0 +1,49 @@
+{
+   "checksum": "de516c2d86949cf9eed94f7ba98e490e",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13321518053868176",
+            "date_last_used": "0",
+            "guid": "4da5f9bf-55ba-4390-8e62-e4bb6a888f08",
+            "id": "5",
+            "name": "Colors class - material library - Dart API",
+            "show_icon": false,
+            "source": "user_add",
+            "type": "url",
+            "url": "https://api.flutter.dev/flutter/material/Colors-class.html"
+         } ],
+         "date_added": "13321517133765630",
+         "date_last_used": "0",
+         "date_modified": "13321518053868176",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13321517133765642",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13321517133765650",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
